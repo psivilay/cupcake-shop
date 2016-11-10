@@ -11,7 +11,7 @@ h3{
 }
 
 ul {
-  
+
 }
 
 .flashy {
@@ -20,5 +20,7 @@ ul {
 }
 
 .best {
-
+  color: purple;
+  font-style: oblique;
+  font-size: 40px;
 }
